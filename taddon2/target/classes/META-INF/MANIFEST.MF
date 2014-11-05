@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Export-Package: net.mfjassociates.addon;uses:="org.springframework.roo
+ .model,org.springframework.roo.shell,org.apache.commons.lang3,org.spr
+ ingframework.roo.classpath.details,org.apache.commons.lang3.builder,o
+ rg.springframework.roo.classpath.details.annotations,org.springframew
+ ork.roo.classpath.itd,org.springframework.roo.project,org.springframe
+ work.roo.metadata,org.springframework.roo.classpath,org.osgi.service.
+ component,org.springframework.roo.support.util,org.w3c.dom"
+Built-By: mario
+Tool: Bnd-1.15.0
+Bundle-Name: taddon
+Created-By: Apache Maven Bundle Plugin
+Bundle-Copyright: Copyright Your project/company name goes here (used 
+ in copyright and vendor information in the manifest). All Rights Rese
+ rved.
+Bundle-Vendor: Your project/company name goes here (used in copyright 
+ and vendor information in the manifest)
+Build-Jdk: 1.7.0_67
+Bundle-Version: 0.1.0.BUILD-SNAPSHOT
+Bnd-LastModified: 1415148893331
+Bundle-ManifestVersion: 2
+Bundle-Description: Test addon creation
+Bundle-License: http://www.gnu.org/copyleft/gpl.html
+Import-Package: org.apache.commons.lang3;version="[3.1,4)",org.apache.
+ commons.lang3.builder;version="[3.1,4)",org.osgi.service.component;ve
+ rsion="[1.1,2)",org.springframework.roo.classpath;version="[1.2,2)",o
+ rg.springframework.roo.classpath.details;version="[1.2,2)",org.spring
+ framework.roo.classpath.details.annotations;version="[1.2,2)",org.spr
+ ingframework.roo.classpath.itd;version="[1.2,2)",org.springframework.
+ roo.metadata;version="[1.2,2)",org.springframework.roo.model;version=
+ "[1.2,2)",org.springframework.roo.project;version="[1.2,2)",org.sprin
+ gframework.roo.shell;version="[1.2,2)",org.springframework.roo.suppor
+ t.util;version="[1.2,2)",org.w3c.dom
+Bundle-SymbolicName: net.mfjassociates.addon
+Bundle-DocURL: http://www.some.company
+
